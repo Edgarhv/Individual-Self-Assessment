@@ -31,3 +31,12 @@ Dependent Variable :Market value
 -We can see that R-squared is equal to 0.691, which means that the regression equation can explain the 69.1% variation in player value.
 
 After that , and to improve our project we used a library called Py Caret that helped us find the best possible model for the data. Finally, we used the Extra Tree Regression Model that gives us  R2 of 0.732
+
+## Future Iterations
+* Incorporate new data
+
+* Divide the data by clusters  (e.g. player position)
+
+* Run the model for a more recent season and compare the results.
+
+
