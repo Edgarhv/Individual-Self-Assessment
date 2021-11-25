@@ -2,7 +2,20 @@
 ![img](https://github.com/Edgarhv/Individual-Self-Assessment/blob/d3d0a797a73447e8f8cbce32a9f7b5812edea745/ImpartialWhoppingElver-mobile.gif)
 ### Resources:https://gfycat.com/impartialwhoppingelver
 
+It was difficult to make this project, but at first, each team member chose a shape, and We knew that each shape was responsible for a specific task. Also, We chose from the square, circle, triangle, and X. Finally, We chose a figure concerning our strengths and with the help of the documentation on canvas.
 
+We created a page where we can edit code all together at the same time and this is how we started to work. Also, with the help of other technologies such as WhatsApp we have and create good communication. https://deepnote.com/project/Untitled-Python-Project-eAGO52SQT5SsuFcbuPwvtw/%2FUntitled.ipynb
+
+## Advantages 
+* Working together facilitates idea generation and creativity
+* Teamwork improves productivity
+* It was a motivation 
+* When we work together, we learn faster
+## Disadvantages
+* we were just two people working
+* Lazy team member
+* It takes more time
+* It takes more time working and the organization
 -------------------------------
 # Project
 Predicting the Market Value of Football Players
